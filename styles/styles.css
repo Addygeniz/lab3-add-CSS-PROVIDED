@@ -1,0 +1,9 @@
+/* TEXT STYLING */
+/* Body: 600px wide, centered, Lucida Sans, blue text */
+body {
+  width: 600px;
+  margin: 0 auto;
+  font-family: "Lucida Sans", sans-serif;
+  color: #00376c;
+}
+
