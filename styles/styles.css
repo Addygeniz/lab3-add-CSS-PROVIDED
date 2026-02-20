@@ -43,3 +43,9 @@ footer {
   background-color: #c7e3ff;
   margin-bottom: 40px;
 }
+
+/* Header: bottom border and tall line height */
+header {
+  border-bottom: solid 6px #7b7b7b;
+  line-height: 80px;
+}
