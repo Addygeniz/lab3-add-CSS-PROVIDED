@@ -34,3 +34,12 @@ h3 {
 footer p {
   font-style: italic;
 }
+
+/* LAYOUT */
+/* Header and footer: centered with light blue background and spacing below */
+header,
+footer {
+  text-align: center;
+  background-color: #c7e3ff;
+  margin-bottom: 40px;
+}
