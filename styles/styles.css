@@ -49,3 +49,8 @@ header {
   border-bottom: solid 6px #7b7b7b;
   line-height: 80px;
 }
+
+/* Footer padding */
+footer {
+  padding: 10px;
+}
