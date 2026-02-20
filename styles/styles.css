@@ -16,3 +16,8 @@ a:hover {
   text-decoration: underline;
 }
 
+/* H2: centered, grey underline */
+h2 {
+  border-bottom: solid 2px #7b7b7b;
+  text-align: center;
+}
