@@ -12,3 +12,7 @@ a {
   color: #00376c;
   text-decoration: none;
 }
+a:hover {
+  text-decoration: underline;
+}
+
