@@ -7,3 +7,8 @@ body {
   color: #00376c;
 }
 
+/* Links: same blue, underline on hover */
+a {
+  color: #00376c;
+  text-decoration: none;
+}
